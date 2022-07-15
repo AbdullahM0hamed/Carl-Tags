@@ -1,0 +1,1 @@
+{all({in(<):{args}}==true|{in(>):{args}}==true|{in(:):{args}}==true):https://cdn.discordapp.com/emojis/{list(-1):{replace( ,~):{replace(>,):{replace(:, ):{args}}}}}.{if({in(<a):{args}}==true):gif|png}|https://github.com/AbdullahM0hamed/twemoji/raw/master/assets/72x72/{args}.png}
